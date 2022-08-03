@@ -23,7 +23,6 @@ public class ContinenteEntity {
     private Long id;
     
     private String imagen;
-    
     private String denominacion;
     
 }
